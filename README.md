@@ -2,7 +2,7 @@
 My data exploration notebooks
 
 ## 2015-12 IP anonymization and its impact on visitor localization in Google Analytics
-http://nbviewer.ipython.org/github/benoitpointet/notebooks/tree/master/2015-12-ip-anonymization-and-geolocation-google-analytics.ipynb
+http://nbviewer.ipython.org/github/benoitpointet/notebooks/blob/master/2015-12-ip-anonymization-and-geolocation-google-analytics.ipynb
 * Exploration 1 : What's the impact of IP anonymizing on the user country dimension?
 * Exploration 2 : Exploration 2 : what does it mean locally in Switzerland? (tbc)
 
